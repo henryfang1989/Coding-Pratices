@@ -1,6 +1,6 @@
 //
 //  main.c
-//  test
+//  Add_Digits
 //
 //  Created by Huangwei Fang on 10/7/15.
 //  Copyright © 2015 henryfang. All rights reserved.
